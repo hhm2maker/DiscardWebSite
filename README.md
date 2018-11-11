@@ -1,2 +1,0 @@
-# MakerBlog
-Maker blog.
