@@ -1,6 +1,5 @@
 ﻿title: Maker
 description: Midi灯光制作软件
-show_downloads: true
-zip_url: https://www.hhm2maker.com/maker.zip
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
