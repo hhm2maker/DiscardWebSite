@@ -16,11 +16,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Header 2
+## FAQ
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> 为什么下载文件的速度这么慢？<br/>
+
+​              因为下载文件放置在Github，所以国内访问会比较慢，如果有小伙伴愿意提供国内服务器可以联系我。
+
+> 如何反馈BUG或提出建议？<br/>
+
+ [Github issues](https://github.com/hhm2maker/Maker/issues)  
 
 ### Header 3
 
